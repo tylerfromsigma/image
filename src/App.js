@@ -52,7 +52,7 @@ function App() {
       {imageUrl && (
         <img 
           src={imageUrl} 
-          alt="image not found"
+          alt="not found"
           style={{
             maxWidth: '100%',
             maxHeight: '100%'
